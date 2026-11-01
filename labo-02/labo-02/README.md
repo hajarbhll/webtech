@@ -47,8 +47,8 @@ Wanneer ik één token wijzig, veranderen alle elementen die dat token gebruiken
 
 Prompt en onbewerkte output staan in `review/`. Minstens vijf bevindingen, elk met een verwijzing naar de sectie of het foutnummer:
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Het model gebruikte CSS-variabelen om kleuren centraal te beheren.
+2. Het model gebruikte selectors zoals nav a zonder extra classes.
+3. Hover- en focusstijlen werden toegevoegd voor links.
+4. Afwisselende achtergrondkleuren werden gemaakt met nth-child(odd).
+5. Het model gebruikte geen !important, waardoor de CSS eenvoudiger te onderhouden blijft.

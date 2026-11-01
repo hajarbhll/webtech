@@ -1,0 +1,1 @@
+Maak een volledige CSS-stylesheet voor de HTML-pagina van een koffiebar. Gebruik CSS-variabelen voor kleuren, een accentkleur voor titels en links, een lichte achtergrondkleur, afwisselende achtergrondkleuren voor menukaarten en aangepaste hover- en focusstijlen voor links. Gebruik geen !important en geen id-selectors.
